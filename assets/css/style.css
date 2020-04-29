@@ -1,4 +1,4 @@
-/**
+research/**
 * Template Name: iPortfolio - v1.2.1
 * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 * Author: BootstrapMade.com
@@ -348,30 +348,30 @@ section {
 }
 
 /*--------------------------------------------------------------
-# about
+# research
 --------------------------------------------------------------*/
-.about .content h3 {
+.research .content h3 {
   font-weight: 700;
   font-size: 26px;
   color: #173b6c;
 }
 
-.about .content ul {
+.research .content ul {
   list-style: none;
   padding: 0;
 }
 
-.about .content ul li {
+.research .content ul li {
   padding-bottom: 10px;
 }
 
-.about .content ul i {
+.research .content ul i {
   font-size: 20px;
   padding-right: 2px;
   color: #149ddd;
 }
 
-.about .content p:last-child {
+.research .content p:last-child {
   margin-bottom: 0;
 }
 
