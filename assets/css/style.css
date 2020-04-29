@@ -164,30 +164,33 @@ h5.report {
 /*--------------------------------------------------------------
 # menu
 --------------------------------------------------------------*/
-/* Desktop Navigation */
+/* desktop navigation */
 .nav-menu {
   padding-top: 30px;
+  text-align: center !important;
 }
 
 .nav-menu * {
   margin: 0;
   padding: 0;
   list-style: none;
+  text-align: center !important;
 }
 
 .nav-menu > ul > li {
   position: relative;
   white-space: nowrap;
+  text-align: center !important;
 }
 
 .nav-menu a {
-  display: flex;
   align-items: center;
   color: #a8a9b4;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
-  font-size: 15px;
+  font-size: 20px;
+  text-align: center !important;
 }
 
 .nav-menu a i {
