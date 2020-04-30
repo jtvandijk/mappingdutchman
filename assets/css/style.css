@@ -510,11 +510,6 @@ section {
   color: #fff;
 }
 
-.card .info .email:hover i, .card .info .address:hover i, .card .info .phone:hover i {
-  background: #149ddd;
-  color: #fff;
-}
-
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
